@@ -5,7 +5,10 @@
     "Tags": ["Demo Theme"]
   },
   "themes": [
-    "https://cdn.jsdelivr.net/gh/NYRI4/Discolored/support/discolored.theme.css"
+    "https://cdn.jsdelivr.net/gh/NYRI4/Discolored/support/discolored.theme.css",
+    "https://luckfire.github.io/amoled-cord/src/support/compiled.css",
+    "https://cord.geomusic.tech/assets/RevertDiscordRebrand.css",
+    "https://cdn.jsdelivr.net/gh/mwittrien/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.theme.css"
   ],
   "scripts": []
 }
