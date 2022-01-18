@@ -5,7 +5,7 @@
     "Tags": ["Demo Theme"]
   },
   "themes": [
-    "https://cdn.jsdelivr.net/gh/Kaiidoo/Newcord/src/newcord.theme.css"
+    "https://cdn.jsdelivr.net/gh/SquirrelKiev/NewcordRevived/src/newcord.theme.css"
   ],
   "scripts": []
 }
