@@ -9,5 +9,7 @@
     "https://luckfire.github.io/amoled-cord/src/support/compiled.css",
     "https://cord.geomusic.tech/assets/RevertDiscordRebrand.css"
   ],
-  "scripts": []
+  "scripts": [
+    "https://cdn.jsdelivr.net/gh/TheRealGeoDash2019/dumb-shit/demo.js"
+  ]
 }
