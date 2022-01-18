@@ -1,0 +1,11 @@
+{
+  "details": {
+    "Name": "Demo",
+    "Author": "TheRealGeoDash#1337",
+    "Tags": ["Demo Theme"]
+  },
+  "themes": [
+    "https://cdn.jsdelivr.net/gh/Kaiidoo/Newcord/src/newcord.theme.css"
+  ],
+  "scripts": []
+}
